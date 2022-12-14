@@ -1,1 +1,1 @@
-# [OnlineShop](https://kuljeanne.github.io/OnlineShop/)
+# [OnlineShop](https://kuljeanne.github.io/OOnlineShop-StudyingProject/)
